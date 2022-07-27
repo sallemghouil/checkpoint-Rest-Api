@@ -1,0 +1,4 @@
+# dependencies
+/node_modules
+# misc
+/Config/.env.MONGO_URI
